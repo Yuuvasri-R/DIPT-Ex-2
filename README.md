@@ -1,5 +1,6 @@
-Image Capture and Video Processing Using OpenCV
-Aim
+# Image Capture and Video Processing Using OpenCV
+
+# Aim
 To write a Python program using OpenCV to capture an image from the webcam and perform the following operations:
 
 Write the frame as a JPG file
